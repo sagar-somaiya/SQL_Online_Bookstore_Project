@@ -17,5 +17,6 @@ This project simulates a mini online bookstore system using SQL and mock data.
 
 Below is a screenshot of the `Books` table created using PostgreSQL in pgAdmin, showing a SELECT query result with mock data:
 
-![Books Table Query Screenshot](books_table_query_demo.jpg)
+![Books Table Query Screenshot](Online%20Book%20Store%20Data%20Sql.JPG)
+
 
